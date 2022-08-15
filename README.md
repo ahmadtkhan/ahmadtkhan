@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ahmad khan, a 2nd year computer engineer at Ryerson University. 
-- 👀 I’m interested in programming in Java and Python. I am also intersted in UI/UX design.
+- 👋 Hi, I’m Ahmad khan, a 3rd year computer engineer at Ryerson University. 
+- 👀 I’m interested in programming in Python and C/C++.I am also interested in PCB design. 
 - 🌱 I’m currently learning lots of new things. 
 - 💞️ I’m looking to collaborate on any intersting projects. 
 - 📫 Reach me by my email "aktariq640@gmail.com"
